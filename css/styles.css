@@ -1,0 +1,10 @@
+.heading {
+    background-image: url(/images/pizza-01.jpg);
+    text-align: center;
+    color: whitesmoke;
+    box-sizing: border-box;
+    min-width: 170px;
+    min-height: 378px;
+    padding: 30px;
+
+}

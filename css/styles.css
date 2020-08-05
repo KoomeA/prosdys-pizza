@@ -1,10 +1,36 @@
 .heading {
     background-image: url(./images/pizza-01.jpg);
     text-align: center;
-    color: whitesmoke;
+    color: teal;
     box-sizing: border-box;
     min-width: 170px;
     min-height: 578px;
     padding: 60px;
+    font-size: 26px;
 
 }
+@keyframes grow {
+    from {
+        font-size: 28px;
+    }
+    to {
+        font-size: 100px;
+    }
+
+}
+
+h1 {
+    animation-name: grow;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+
+}
+
+ .form-group {
+     margin-top: 4vw;
+     padding: 3rem;
+     box-sizing: border-box;
+     line-height: 2rem;
+     text-align: center;
+ }
+ 

@@ -33,4 +33,9 @@ h1 {
      line-height: 2rem;
      text-align: center;
  }
- 
+ .container {
+     background-color: peru;
+     text-align: center;
+     color: white;
+     font-size: 18px;
+ }

@@ -1,5 +1,5 @@
 .heading {
-    background-image: url(./images/pizza-01.jpg);
+    background-image: url(/images/pizza-01.jpg);
     text-align: center;
     color: teal;
     box-sizing: border-box;

@@ -146,7 +146,7 @@ h4 {
 .order-overlay {
     height: inherit;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: palevioletred;
     border-radius: 20px;
 }
 
@@ -263,12 +263,6 @@ figure img {
 
     .karibu-txt {
         margin-top: 50px;
-    }
-
-    .menu-overlay {
-        width: 100%;
-        height: inherit;
-        background-color: rgba(0, 0, 0, 0.7);
     }
 
     .karibu-img {
